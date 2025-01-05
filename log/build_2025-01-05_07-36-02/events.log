@@ -1,0 +1,3 @@
+[0.000000] (-) TimerEvent: {}
+[0.005392] (-) JobUnselected: {'identifier': 'mi_primer_paquete'}
+[0.007608] (-) EventReactorShutdown: {}
